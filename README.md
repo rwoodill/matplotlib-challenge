@@ -1,10 +1,14 @@
 # matplotlib-challenge
-Authored by Rachel Woodill
-#----------------------------------
-File Locations:
--
 
 #----------------------------------
+
+Authored by Rachel Woodill
+
+#----------------------------------
+
+
+#----------------------------------
+
 Instructions:
 
 What good is data without a good plot to tell the story?
