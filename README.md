@@ -6,7 +6,21 @@ Authored by Rachel Woodill
 
 #----------------------------------
 
+File Locations: 
+- starter code: Starter_Code
+- my file: Pymaceuticals > pymaceuticals_Rachel.ipynb
+- data imported: Pymaceuticals > data > Mouse_metadata.csv / Study_results.csv
+  
 #----------------------------------
+
+Analysis
+
+- When looking at the bar graph of mice per drug regimen, one can determine that there are 10 treatments in the study. Most of the mice were treated with Capomulin. The least number of mice were treated with Propriva. Therefore the study focused on Capomulin.
+- Referring to the pie graph displaying the distribution of mice sexes across the study, one can determine that more male mice were studied than female mice.
+- There is a strong positive correlation between mouse weight and average tumor volume (0.84). When the mouse weight increases, the average tumor volume also increases.
+  
+#----------------------------------
+
 
 Instructions:
 
